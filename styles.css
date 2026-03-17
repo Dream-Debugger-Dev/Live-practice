@@ -93,3 +93,32 @@
   font-weight: bold;
   color: white;
 }
+
+.Pac-man-details-container {
+  padding: 10px;
+}
+
+.Pac-man-detail-section-intro {
+  text-align: center;
+}
+
+.pac-man-section-heading {
+  font-family: "Monoton";
+  text-align: center;
+  color: #ffd700;
+}
+
+.game-info {
+  padding: 10px;
+}
+
+.game-info-heading {
+  font-family: "Roboto";
+  text-align: left;
+  color: #1e90ff;
+}
+
+.game-info-list {
+  list-style-type: square;
+  color: white;
+}
