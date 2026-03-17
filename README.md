@@ -1,4 +1,4 @@
-# 🕹️ Neon-Vault (or your chosen name)
+# 🕹️ Neon-Vault
 
 ![Retro Arcade Banner](https://img.shields.io/badge/Style-Cyberpunk%20Neon-green)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
